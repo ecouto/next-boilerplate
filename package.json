@@ -24,7 +24,7 @@
     "@types/styled-components": "^5.1.24",
     "babel-plugin-styled-components": "^2.0.2",
     "next": "12.1.1",
-    "next-pwa": "^5.4.4",
+    "next-pwa": "^5.5.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.1"
